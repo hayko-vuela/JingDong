@@ -1,44 +1,14 @@
-"添加了一个新文件"
+"i miss you"
 
 # --------------
 # Please enter the commit message for your changes. Everything below
 # this paragraph is ignored, and an empty message aborts the commit.
 # Just close the window to accept your message.
-diff --git a/js.html b/js.html
-index 34bc0de..2b92b94 100644
---- a/js.html
-+++ b/js.html
-@@ -262,7 +262,7 @@ gm.init();
- 
- 
- //外部测试代码
--var fd=new Food();
-+/*var fd=new Food();
- fd.init(document.querySelector(".map"));
- //创建小蛇
- var snake=new Snake();
-@@ -270,7 +270,7 @@ snake.init(document.querySelector(".map"));
- setInterval(function(){
- snake.move(fd,document.querySelector(".map"));
- snake.init(document.querySelector(".map"));
--},150);
-+},150);*/
- 
- 
- </script>
-diff --git a/msg.html b/msg.html
+diff --git a/miss.js b/miss.js
 new file mode 100644
-index 0000000..5ed6ae5
+index 0000000..3b73051
 --- /dev/null
-+++ b/msg.html
-@@ -0,0 +1,9 @@
-+<!DOCTYPE html>
-+<html>
-+<head>
-+	<title></title>
-+</head>
-+<body>
-+<<div>添加了一个新的页面</div>
-+</body>
-+</html>
++++ b/miss.js
+@@ -0,0 +1 @@
++i miss you
 \ No newline at end of file
