@@ -1,14 +1,86 @@
-"i miss you"
+aaaaaaaaaaa
 
 # --------------
 # Please enter the commit message for your changes. Everything below
 # this paragraph is ignored, and an empty message aborts the commit.
 # Just close the window to accept your message.
-diff --git a/miss.js b/miss.js
-new file mode 100644
-index 0000000..3b73051
---- /dev/null
-+++ b/miss.js
-@@ -0,0 +1 @@
-+i miss you
+diff --git a/COMMIT_EDITMSG.COMMIT_EDITMSG b/COMMIT_EDITMSG.COMMIT_EDITMSG
+index 058e7be..548a986 100644
+--- a/COMMIT_EDITMSG.COMMIT_EDITMSG
++++ b/COMMIT_EDITMSG.COMMIT_EDITMSG
+@@ -1,14 +1,42 @@
+-"i miss you"
++提交一个文件
+ 
+ # --------------
+ # Please enter the commit message for your changes. Everything below
+ # this paragraph is ignored, and an empty message aborts the commit.
+ # Just close the window to accept your message.
++diff --git a/COMMIT_EDITMSG.COMMIT_EDITMSG b/COMMIT_EDITMSG.COMMIT_EDITMSG
++index 058e7be..c827242 100644
++--- a/COMMIT_EDITMSG.COMMIT_EDITMSG
+++++ b/COMMIT_EDITMSG.COMMIT_EDITMSG
++@@ -1,14 +1,14 @@
++-"i miss you"
+++aaaaaaaaaaaaaa
++ 
++ # --------------
++ # Please enter the commit message for your changes. Everything below
++ # this paragraph is ignored, and an empty message aborts the commit.
++ # Just close the window to accept your message.
++ diff --git a/miss.js b/miss.js
++-new file mode 100644
++-index 0000000..3b73051
++---- /dev/null
+++index 3b73051..9974d16 100644
+++--- a/miss.js
++ +++ b/miss.js
++-@@ -0,0 +1 @@
++-+i miss you
++-\ No newline at end of file
++\ No newline at end of file
+++@@ -1 +1 @@
+++-i miss you
+++\ No newline at end of file
++++i miss you
++\ No newline at end of file
+ diff --git a/miss.js b/miss.js
+-new file mode 100644
+-index 0000000..3b73051
+---- /dev/null
++index 3b73051..9a45656 100644
++--- a/miss.js
+ +++ b/miss.js
+-@@ -0,0 +1 @@
+-+i miss you
+-\ No newline at end of file
 \ No newline at end of file
++@@ -1 +1 @@
++-i miss you
++\ No newline at end of file
+++i miss you i miss you i miss you i miss you i miss you i miss you i miss you i miss you
+\ No newline at end of file
+diff --git a/error.html b/error.html
+new file mode 100644
+index 0000000..b2a250e
+--- /dev/null
++++ b/error.html
+@@ -0,0 +1,9 @@
++<!DOCTYPE html>
++<html>
++<head>
++	<title></title>
++</head>
++<body>
++<div>这是一个错误文档</div>
++</body>
++</html>
+\ No newline at end of file
+diff --git a/miss.js b/miss.js
+index 3b73051..9a45656 100644
+--- a/miss.js
++++ b/miss.js
+@@ -1 +1 @@
+-i miss you
+\ No newline at end of file
++i miss you i miss you i miss you i miss you i miss you i miss you i miss you i miss you
